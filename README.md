@@ -23,3 +23,5 @@
 ## 3. 部署
 
 #### [https://gsbka7.github.io/weather-card/](https://gsbka7.github.io/weather-card/)
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
